@@ -4,6 +4,8 @@
   Linux
 ## Requirements
   Python
+
+  
   opencv
 ## Install venv
   Double click or execute venv_install.sh in terminal
