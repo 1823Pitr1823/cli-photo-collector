@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/run/media/pitr/Storage/Documents/Programming/portfolio/python/Photo_collector/venv"
+set -gx VIRTUAL_ENV "/run/media/pitr/Storage/Documents/Programming/portfolio/python/cli-photo-collector/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

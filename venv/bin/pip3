@@ -1,4 +1,4 @@
-#!/run/media/pitr/Storage/Documents/Programming/portfolio/python/Photo_collector/venv/bin/python
+#!/run/media/pitr/Storage/Documents/Programming/portfolio/python/cli-photo-collector/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
