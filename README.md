@@ -5,7 +5,7 @@ Linux
 ## Requirements
   [Python](https://www.python.org/)
 ## Install venv
-  Double click or execute venv_install.sh in terminal
+Double click or execute venv_install.sh in terminal
 ## Usage
     ./cli-photo.py directory/myfile#.png/jpg
 
